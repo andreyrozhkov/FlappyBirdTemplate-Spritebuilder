@@ -209,6 +209,7 @@
 				B77F1B2F17B978D7009739AE /* Products */,
 			);
 			sourceTree = "<group>";
+			wrapsLines = 1;
 		};
 		B77F1B2F17B978D7009739AE /* Products */ = {
 			isa = PBXGroup;
@@ -499,6 +500,7 @@
 				);
 				PRODUCT_NAME = FlappyBird;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -530,6 +532,7 @@
 				);
 				PRODUCT_NAME = FlappyBird;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
